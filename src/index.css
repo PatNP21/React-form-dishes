@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  background: linear-gradient(#5555b5, #ababab);
+  width:100%;
+  top:0;
+  position: fixed;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
